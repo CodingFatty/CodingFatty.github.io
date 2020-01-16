@@ -3,16 +3,16 @@
 #
 
 # Name of your site (displayed in the header)
-name: Reverie
+name: Dennis Yu
 
 # Name of the author
 author: Amit Merchant
 
 # Short bio or description (displayed in the header)
-description: An elegant Jekyll theme
+description: Personal Website
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /images/reverie.png
+avatar: https://media-exp1.licdn.com/dms/image/C5103AQHB8AqXAZdysw/profile-displayphoto-shrink_200_200/0?e=1584576000&v=beta&t=Ydho_BfQGdVhnfzZzABu0sm6cruktaSNNNFTFjRSAC8
 
 #
 # Flags below are optional
@@ -21,12 +21,12 @@ avatar: /images/reverie.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: amit.d.merchant@gmail.com
+  email: 
   facebook:
   flickr:
-  github: amitmerchant1990/reverie
+  github: github.com/CodingFatty/
   instagram:
-  linkedin: 
+  linkedin: https://www.linkedin.com/in/dennis-ttyu/
   pinterest:
   rss: rss
   twitter: amit_merchant
@@ -45,14 +45,14 @@ google_analytics: UA-43339302-11
 
 # Your website URL (e.g. http://amitmerchant1990.github.io or http://www.amitmerchant.com)
 # Used for Sitemap.xml and your RSS feed
-url: http://www.amitmerchant.com/reverie
-enforce_ssl: https://www.amitmerchant.com/reverie
+url: http://dennisyu.cc
+enforce_ssl: https://dennisyu.cc
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "/reverie"
+baseurl: 
 
 #
 # !! You don't need to change any of the configuration flags below !!
