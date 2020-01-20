@@ -1,29 +1,25 @@
 ---
 layout: page
-title: About
+title: Projects
 permalink: /project/
 ---
 
-[Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
+# Duo Analysis
+![Duo-analysis](../assets/duoanalysis.png)
 
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
+[Duo-Analysis](https://github.com/CodingFatty/vue-lol-duo-partner) is a web application that let people compare two summoners' performance in their games.
 
-## Features
+### Tech Stacks
 
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme
-- Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
-- All the SEO goodies comes in-built
-- Markdown blogging
-- Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
-- Disqus commenting
-- Google Analytics integration
-- Fuzzy search across blog posts
-- Pagination of posts works out-of-the-box.
-- Categorize posts out-of-the box
-- RSS Feed
-- In-built sitemap
-
-Learn more about it [here](https://github.com/amitmerchant1990/reverie) on how to get started.
+- Frontend: Vuejs, highcharts
+    - Call Nodejs server to fetch data from RiotGame Api
+    - Use highcharts library to visualize the data
+    - Hosted on Firebase
+- Backend: Nodejs, Express, axios, MongoDB
+    - Fetch summoners information from RiotGame Api
+    - Save data into MongoDB
+    - Extract necessary data and pass it to response
+    - Hosted on Heroku
+- Database: MongoDB
+    - Access data through Mongoose
+    - Hosted on mLab
