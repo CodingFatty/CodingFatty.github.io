@@ -1,14 +1,15 @@
 ---
 layout: page
+title: Projects
 permalink: /project/
 ---
 
-# Duo Analysis
+### Duo Analysis
 ![Duo-analysis](../assets/duoanalysis.png)
 
-[Duo-Analysis](https://github.com/CodingFatty/vue-lol-duo-partner) is a web application that let people compare two summoners' performance in their games.
+[Duo-Analysis](https://github.com/CodingFatty/vue-lol-duo-partner) is a web application that let people compare two summoners' performance on their games.
 
-### Tech Stacks
+#### Tech Stacks
 
 - Frontend: Vuejs, highcharts
     - Call Nodejs server to fetch data from RiotGame Api
